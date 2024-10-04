@@ -24,13 +24,14 @@ assignees: ''
 
 When the Reference Management Group (RMG) receives the request, it will be reviewed and accepted or denied depending on the information given in this template. 
 
-<details>
-<summary>***Checklist for RMG***</summary>
-<br>
+<details><summary>*Checklist for RMG (click arrow to expand)*</</summary>
+
+
 - [ ] The new stock code is created
 - [ ] The stock description has been changed
 - [ ] The old stock has been deprecated, and reference made to the new stock code(s)
 - [ ] the request has been denied
+
 </details>
 
 

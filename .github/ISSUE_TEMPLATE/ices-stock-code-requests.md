@@ -33,8 +33,7 @@ This template is to request a new stock code (ICES_StockCode) for the ICES vocab
 
 When the Reference Management Group (RMG) receives the request, it will be reviewed and accepted or denied depending on the information given in this template. 
 
-___<details><summary>Checklist for RMG (click arrow to expand)</summary>___
-
+<details><summary>Checklist for RMG (click arrow to expand)</summary>
 - [ ] The new stock code is created
 - [ ] The stock description has been changed
 - [ ] The old stock has been deprecated, and reference made to the new stock code(s)

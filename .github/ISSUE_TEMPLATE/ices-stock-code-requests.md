@@ -38,12 +38,14 @@ Link to the report and section within it if relevant
 ### **To be filled by RMG
 <details>
 <summary>Checklist for RMG (click arrow to expand)</summary>
-<be>
+
+
 - [ ] The request has been processed
 - [ ] ICES_StockCode and IC_Stock have been updated in RECO and linked to relevant species codes, years, areas, ecoregions, WGs, databases etc
 - [ ] Previous codes have been unlinked of years and WGs to make them inactive for the current year
 - [ ] Sufficient notes are made in both new and old stock codes to identify connections between them and link to relevant reports
 - [ ] The requester PO has been informed
+
 </details>
 
 If the request is accepted the stock code will be created by the relevant data manager in the vocabulary, whereafter the Professional Officer needs to create a stock list record in SID by linking the stock code to the year(s) for which it is valid.

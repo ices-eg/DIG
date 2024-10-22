@@ -38,7 +38,7 @@ Link to the report and section within it if relevant
 ### **To be filled by RMG
 <details>
 <summary>Checklist for RMG (click arrow to expand)</summary>
-<br>
+<be>
 - [ ] The request has been processed
 - [ ] ICES_StockCode and IC_Stock have been updated in RECO and linked to relevant species codes, years, areas, ecoregions, WGs, databases etc
 - [ ] Previous codes have been unlinked of years and WGs to make them inactive for the current year

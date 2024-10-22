@@ -2,7 +2,7 @@
 name: ICES Stock Code Requests
 about: 'This template is to request a new stock code (ICES_StockCode) for the ICES
   vocabulary or modify the description for existing ones. '
-title: Stock Code Request [Todays date, Species, ICES area]
+title: STOCK [Today's date, Species, ICES area]
 labels: ''
 assignees: ''
 

@@ -20,7 +20,8 @@ This template is to request a new stock code (ICES_StockCode) for the ICES vocab
 - [ ] A new stock code that needs to be created not linked to any existing stock 
 
 ## **2. Please Provide information regarding the request below:** 
-### *The previously existing code(s) and description(s)*
+
+__*The previously existing code(s) and description(s)*__
 <!-- Provide the existing stock codes and their descriptions here. -->
 
 __*The new code(s) requested, their description(s) and a brief description of the changes concerning the previous codes*__

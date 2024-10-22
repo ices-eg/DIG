@@ -23,10 +23,12 @@ This template is to request a new stock code (ICES_StockCode) for the ICES vocab
 ### *The previously existing code(s) and description(s)*
 <!-- Provide the existing stock codes and their descriptions here. -->
 
-### *The new code(s) requested, their description(s) and a brief description of the changes concerning the previous codes*
-### *Which Benchmark, Expert Group or Workshop has requested a new stock code*
+__*The new code(s) requested, their description(s) and a brief description of the changes concerning the previous codes*__
+
+__*Which Benchmark, Expert Group or Workshop has requested a new stock code*__
 Link to the report and section within it if relevant
-### *The contact Professional Officer for the request*
+
+__*The contact Professional Officer for the request*__
 
 
 ## **3.  Please confirm:

@@ -8,9 +8,6 @@ assignees: ''
 
 ---
 
-This template is to request a new stock code (ICES_StockCode) for the ICES vocabulary or modify the description for existing ones. 
-
-
 ## 1. Please select **only one** of the following cases:
 
 - [ ] It is an existing stock code that needs to be split into 2 or more components

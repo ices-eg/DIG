@@ -31,7 +31,7 @@ __*Name of the contact ICES Professional Officer for the request*__
 ## 3.  Please confirm:
 
 - [ ] The request has been approved by ACOM.
-### *Please provide a link to the minutes, notes etc. where the approval is found.
+__*Please provide a link to the minutes, notes etc. where the approval is found.*__
 
 - [ ]  The codes and descriptions have been reviewed for grammar and style by the editorial office
 

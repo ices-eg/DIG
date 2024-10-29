@@ -28,7 +28,7 @@ __*Which Benchmark, Expert Group or Workshop has requested a new stock code?*__
 __*Name of the contact ICES Professional Officer for the request*__
 
 
-## **3.  Please confirm:
+## 3.  Please confirm:
 
 - [ ] The request has been approved by ACOM.
 ### *Please provide a link to the minutes, notes etc. where the approval is found.
@@ -36,7 +36,7 @@ __*Name of the contact ICES Professional Officer for the request*__
 - [ ]  The codes and descriptions have been reviewed for grammar and style by the editorial office
 
 
-### **To be filled by RMG
+### To be filled by RMG
 <details>
 <summary>Checklist for RMG (click arrow to expand)</summary>
 

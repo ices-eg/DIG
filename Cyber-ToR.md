@@ -27,7 +27,7 @@ It's important to identify the key cyber-security challenges that are facing the
 Once the challenges we will list the key measures that can be taken to reduce their risk.
 
 **ToR c)**
-One of the most effective defences against cyber attacks is knowledgeable people with the right skills.  This ToR will determine whether there is a need for cyber-security training targetted at the ICES community and, if so, what it should cover.
+One of the most effective defences against cyber attacks is well-informed people with the right skills.  This ToR will determine whether there is a need for cyber-security training targetted at the ICES community and, if so, what it should cover.
 
 **ToR d)**
 During the workshop it will be decided if there is value in a similar forum meeting on an ongoing basis - if so, it will propose what format it should take and, if required, draft resolutions.
@@ -48,7 +48,7 @@ No financial implications.
 Indirectly linked to both ACOM and SCICOM.
 
 **Linkages to other committees or groups:**
-DIG
+DIG, SIPG
 
 **Linkages to other organizations:**
-Scientific organisations in ICES member countries
+Scientific organizations in ICES member countries; cooperating organizations

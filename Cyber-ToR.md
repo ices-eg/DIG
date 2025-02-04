@@ -24,7 +24,7 @@ In June 2024 the ICES Secretariat suffered a ransomware cyber-attack.  The attac
 It's important to identify the key cyber-security challenges that are facing the ICES community.
 
 **ToR b)**
-Once the challenges we will list the key measures that can be taken to reduce their risk.
+Once the challenges are identified we will list the key measures that can be taken to reduce their risk.
 
 **ToR c)**
 One of the most effective defences against cyber attacks is well-informed people with the right skills.  This ToR will determine whether there is a need for cyber-security training targetted at the ICES community and, if so, what it should cover.

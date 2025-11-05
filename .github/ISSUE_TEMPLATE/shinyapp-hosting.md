@@ -9,6 +9,9 @@ assignees: neil-ices-dk
 
 Checklist against https://doi.org/10.17895/ices.pub.22695898.v1
 
+- [ ] Lead confirms all steps are complete (tag lead here)
+- [ ] Head of Data confirms that all steps are fulfilled (tag head of data here)  
+
 ### Step 1 licensing
 - include app license (github repo license for code base)
 - if data are a part of the app, which license do they follow (DOI links required, where available)
